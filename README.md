@@ -33,6 +33,8 @@ To get started with MasterKey-PassVault, follow these steps:
    ```
    nodemon index.js
    ```
+   - **.env:** Make Sure you have a .env file holding the database credentials.
+
 # Frontend
 
 1. **Install Dependencies:**

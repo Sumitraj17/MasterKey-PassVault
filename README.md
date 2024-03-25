@@ -22,7 +22,8 @@ To get started with MasterKey-PassVault, follow these steps:
    ```
    cd MasterKey-PassVault
    ```
-##Backend
+# Backend
+
 1. **Install Dependencies:**
    ```
    npm install
@@ -32,7 +33,8 @@ To get started with MasterKey-PassVault, follow these steps:
    ```
    nodemon index.js
    ```
-##Frontend
+# Frontend
+
 1. **Install Dependencies:**
    ```
    npm install
